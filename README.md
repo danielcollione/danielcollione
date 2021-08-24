@@ -4,7 +4,7 @@
 - Developer at [Hausenn Technologies](http://www.hausenn.com.br/) :construction_worker:
 - Currently working with technologies such as: Angular, TypeScript and JavaScript. :computer:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-collione-fais-c-893602190/)](https://www.linkedin.com/in/daniel-collione-fais-c-893602190/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danielcollione)](https://twitter.com/danielcollione)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-collione-fais-c-893602190/)](https://www.linkedin.com/in/daniel-collione-fais-893602190/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danielcollione)](https://twitter.com/danielcollione)
 
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielcollione&show_icons=true&theme=dark)
 
